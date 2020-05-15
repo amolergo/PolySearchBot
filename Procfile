@@ -1,0 +1,1 @@
+worker: python telebot_test_v2.py
